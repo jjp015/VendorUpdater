@@ -1,0 +1,21 @@
+body { 
+  background-color: #CCFF99;
+  font-family:      Arial, serif;
+  margin:           0px;
+}
+
+#main {
+  background:       url(images/super3.gif) top left;
+  font-size:        100%;
+  padding:          20px;
+  margin:           0px 340px 10px 10px;
+}
+
+h1 {
+  font-size:        200%;
+  text-decoration: underline;
+}
+
+h2 { font-size: 110%; 
+     text-decoration: underline;    
+}

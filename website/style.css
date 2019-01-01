@@ -1,0 +1,56 @@
+body { 
+  background-color: #CCFF99;
+  font-family:      Arial, serif;
+  font-size:        small;
+  margin:           0px;
+}
+
+#header {
+  background-color: #336600;
+  margin:           8px;
+  height:           108px;
+}
+
+#main {
+  background:       url(images/super3.gif) top left;
+  font-size:        100%;
+  padding:          14px;
+  margin:           0px 340px 10px 10px;
+}
+
+#sidebar {
+  background:       url(images/super3.gif) bottom right;
+  font-size:        100%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+  position:         absolute;
+  top:              124px;
+  right:            0px;
+  width:            290px;
+}
+
+
+h1 {
+  font-size:        120%;
+  color:            #000000;
+  text-align:center;
+  text-decoration: underline;
+}
+
+h2 { font-size: 110%; }
+
+h3 { font-size: 300%; 
+     color: #FFFFFF;
+     text-align:center;
+}
+
+a:link {
+  color:            #FF3333;
+  text-decoration:  none;
+  border-bottom:    thin dotted #FF3333;
+}
+a:visited {
+  color:            #CC6600;
+  text-decoration:  none;
+  border-bottom:    thin dotted #CC6600;
+}
